@@ -27,5 +27,5 @@
 ![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=googlecloud&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=6aa6f8)
 
-[![Linkedin: cmpickle](https://img.shields.io/badge/-cmpickle-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cmpickle/)](https://www.linkedin.com/in/cmpickle/)
+[![Linkedin: cmpickle](https://img.shields.io/badge/-cmpickle-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cmpickle/)](https://www.linkedin.com/in/cameronpickle/)
 [![GitHub cmpickle](https://img.shields.io/github/followers/cmpickle?label=follow&style=social)](https://github.com/cmpickle)
