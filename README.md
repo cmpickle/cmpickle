@@ -1,5 +1,5 @@
 <h1 align="center">
-  <p><em>Software Engineer at <a href="https://gopuff.com/go">Gopuff</a></em></p>
+  <p><em>Software Engineer at <a href="https://gopuff.com/go">IndeVets</a></em></p>
   <a target="_blank" href="https://github.com/cmpickle">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=cmpickle&show_icons=true&theme=github_dark&count_private=true&hide=stars" />
   </a>
